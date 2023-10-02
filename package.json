@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "inquirer-promise": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node Develop/index.js"
+  }
+}
