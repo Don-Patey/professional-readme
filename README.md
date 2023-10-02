@@ -35,3 +35,6 @@ tested my patience ahah
 
 ## License
 This project is licensed under the MIT license.
+
+## LINK TO SCREENCASTIFY RECORDING
+https://drive.google.com/file/d/1HD8wV5LgI93aduKLCMvoAqREjks2kqKc/view 
